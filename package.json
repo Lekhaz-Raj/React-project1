@@ -1,6 +1,6 @@
 { 
-"homepage" : "https://Lekhaz-Raj.github.io/React-project1/"
-"scripts": {
+"homepage" : "https://Lekhaz-Raj.github.io/React-project1/",
+"scripts" : {
   "lint": "eslint .",
   "dev": "vite",
   "build": "vite build",
